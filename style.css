@@ -1,0 +1,39 @@
+/* Simple one-page design for Myrrh */
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fdf7f1;
+  color: #3e2f1c;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: #fffdf9;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #8b4513;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.main-image {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  margin-top: 10px;
+  border: 2px solid #d2b48c;
+}
+
+.message {
+  font-size: 1.2em;
+  margin-top: 20px;
+  color: #5a4633;
+  font-style: italic;
+}
